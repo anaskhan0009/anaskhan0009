@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @anaskhan0009
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Dinal Studios
 
-<!---
-anaskhan0009/anaskhan0009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-service digital agency — video editing, graphic design, web & app development, and social media marketing.
+
+## Services
+- Video Editing & YouTube Automation
+- Logo & Thumbnail Design
+- Web & App Development
+- Social Media Marketing & Content
+
+## Work with us
+- LaborX: https://laborx.com/freelancers/users/id474525
+- Store: https://digishelf.netlify.app/
